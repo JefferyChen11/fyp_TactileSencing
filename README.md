@@ -175,6 +175,4 @@ python validation.py --model svm_model.joblib
 ---
 
 ## Contact
-Author / maintainer: Your Name — your.email@example.com
-
-If you want any changes to wording, extra sections (e.g., full CLI options for each script), or a Chinese version, tell me and I will update the saved README.
+Author / maintainer: Zhifei Chen — zczqz64@ucl.ac.uk
